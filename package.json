@@ -1,0 +1,13 @@
+{
+  "name": "Ethereum-Mining",
+  "version": "1.0.0",
+  "description": "Mining like it's 1999",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ivychenyao/Ethereum-Mining",
+  "devDependencies": {
+    "electron": "^1.6.11"
+  }
+}
